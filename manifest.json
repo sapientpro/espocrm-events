@@ -1,6 +1,6 @@
 {
  "name": "Events",
- "version": "1.0.1",
+ "version": "1.0.2",
  "acceptableVersions": [
    ">=3.7.2"
  ],
