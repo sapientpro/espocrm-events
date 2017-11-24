@@ -1,0 +1,11 @@
+{
+ "name": "Events",
+ "version": "1.0.1",
+ "acceptableVersions": [
+   ">=3.7.2"
+ ],
+ "releaseDate": "2017-11-24",
+ "author": "Ihor Hamal @ SapientPro",
+ "description": "Simple EspoCRM Events Extension",
+ "delete": []
+}

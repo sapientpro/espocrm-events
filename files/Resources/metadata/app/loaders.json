@@ -1,0 +1,3 @@
+{
+    "EventManager": "\\Espo\\Modules\\Events\\Core\\Loaders\\EventManager"
+}
